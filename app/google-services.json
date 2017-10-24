@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "844841330758",
+    "firebase_url": "https://asdf-285e5.firebaseio.com",
+    "project_id": "asdf-285e5",
+    "storage_bucket": "asdf-285e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844841330758:android:bc0b35cf89f334dc",
+        "android_client_info": {
+          "package_name": "com.example.username.tripadvisor_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844841330758-a4bi2cn2jml5qc1p7h92p45p5gosmvtd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.username.tripadvisor_signin",
+            "certificate_hash": "4a869379ce123f283f96a98c0c5729f51e5f90ef"
+          }
+        },
+        {
+          "client_id": "844841330758-e31qls3b2k3jpj4b6aesqv95mliukt19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1qe0Y-vR9jG1WK8MI22wNJb2yFp1_tZw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844841330758-e31qls3b2k3jpj4b6aesqv95mliukt19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
